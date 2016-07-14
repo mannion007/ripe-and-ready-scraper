@@ -16,3 +16,6 @@
 ##Running the unit tests
 
 (From the project root) **vendor/bin/phpunit tests**
+
+## Travis build status
+[![Build Status](https://travis-ci.org/mannion007/ripe-and-ready-scraper.svg?branch=master)](https://travis-ci.org/mannion007/ripe-and-ready-scraper)
